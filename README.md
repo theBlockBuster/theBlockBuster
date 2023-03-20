@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theBlockBuster
 - 👀 I’m interested in 
-- 🌱 I’m currently learning C#, Typescript 
+- 🌱 I’m currently learning C# and Typescript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
